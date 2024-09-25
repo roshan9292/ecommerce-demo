@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://roshan9292.github.io/ecommerce-demo/",
+  "homepage":"https://roshan9292.github.io/ecommerce-demo/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
